@@ -1,6 +1,4 @@
 # 911-Calls-Capstone-Project
 
 ## Introduction
-Given  user-inputted text descriptions of their products, an algorithm that automatically suggests the right product prices is
-implemented.It applies Tokenizing and tf-idf algorithm to pre-process data and machine learning techniques (K-means and LDA)
-to cluster topics.
+The goal is to analyse some 911 calls data from kaggle. Focusing on the reason for calls and time information, I restructures the data-frame and create a heat-map to show the number of calls made at different time.
